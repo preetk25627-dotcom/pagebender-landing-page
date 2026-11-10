@@ -21,6 +21,8 @@ No build step or package installation is required.
 - `FIGMA_SPEC.md` — frame sizes, layout guidance and design tokens for recreating the design in Figma.
 - `USER_TESTING.md` — script and a blank record for two real tests.
 - `AI_LOG.md` — disclosure of AI assistance and items requiring human verification.
+- `DRIVE_README.md` — prepared contents for the submission Drive folder.
+- `SUBMISSION_CHECKLIST.md` — explicit checklist of owner-only deliverables.
 
 ## Product assumptions
 The brief permits assuming manuscript import (e.g. Word), applying a book design, handling Devanagari alongside English, and exporting a print-ready PDF. This page labels these as assumptions, not independently verified specifications. It does not claim support for every Indian script, OCR, automatic proofreading, guaranteed font shaping, or a production release date.
