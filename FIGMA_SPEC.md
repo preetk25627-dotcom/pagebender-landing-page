@@ -3,29 +3,30 @@
 Create a Figma design file named **PageBender — Landing Page**. Recreate the coded concept in two frames. This is a design specification, not a claim that a Figma file has already been created.
 
 ## Frames
-- Desktop: 1440 × 3200 px (full-page frame; adjust height to content).
-- Mobile: 390 × 4200 px (full-page frame; adjust height to content).
+- Desktop: 1440 px wide; full-page height adjusted to content.
+- Mobile: 390 px wide; full-page height adjusted to content.
 - Use Auto Layout for header, navigation, buttons, cards, workflow steps and footer where practical.
 
 ## Visual tokens
-- Paper: `#F7F5EF`
-- Cream: `#080D19` (use `#080D19` only as a visual reference; exact CSS cream is `#080D19`)
-- Ink: `#202B28`
-- Deep green: `#233A32`
-- Green: `#314B40`
-- Terracotta: `#C8794F`
-- Muted text: `#68736D`
-- Borders: `#DCDED5`
-- Display type: Playfair Display (or Georgia fallback)
-- UI/body type: DM Sans (or Arial fallback)
+- Background: `#080D19`
+- Panel: `#101A2C`
+- Secondary panel: `#142139`
+- Primary text: `#F4F7FF`
+- Muted text: `#A7B4CA`
+- Blue: `#7C9CFF`
+- Cyan: `#6CE4EF`
+- Purple: `#B69CFF`
+- Border: `rgba(177,197,231,.15)`
+- Display type: Space Grotesk
+- UI/body type: DM Sans
 
 ## Desktop layout
-1. Announcement strip: 1440 × 30.
-2. Header: 1440 × 78; brand left, nav right.
+1. Announcement strip.
+2. Header: brand left, nav right.
 3. Hero: two columns; left copy, right book-spread visual.
 4. Audience strip: horizontal.
 5. Problem: intro column plus three issue cards.
-6. Workflow: dark green section with four steps.
+6. Workflow: dark panel section with four steps.
 7. Publisher audience: text left, three audience rows right.
 8. CTA: centered heading and email field/button.
 9. Footer: brand, tagline, concept label.
@@ -35,7 +36,7 @@ Create a Figma design file named **PageBender — Landing Page**. Recreate the c
 - Hero stacks copy above book-spread preview.
 - Audience strip wraps.
 - Problem cards stack vertically.
-- Workflow becomes a two-column grid.
+- Workflow becomes a single-column stack.
 - Publisher content stacks.
 - CTA form stacks input and button.
 - Footer wraps into two rows.
@@ -48,6 +49,4 @@ Create a Figma design file named **PageBender — Landing Page**. Recreate the c
 - [ ] Add a note that product capabilities are assumptions from the assignment brief.
 - [ ] Share as Anyone with the link — Viewer.
 
-
-## Selected visual direction — Modern SaaS
-Use a deep navy canvas, blue/cyan/purple gradient accents, glass-like panels, rounded cards, Space Grotesk headings and DM Sans body text. Keep the editorial book-spread preview as the product-specific visual anchor.
+The Figma file is not included in this repository and must be created and shared separately if the assignment requires a Figma deliverable.
