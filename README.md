@@ -22,7 +22,7 @@ No build step or package installation is required.
 The brief permits assuming manuscript import (e.g. Word), applying a book design, handling Devanagari alongside English, and exporting a print-ready PDF. This page labels these as assumptions, not independently verified specifications. It does not claim support for every Indian script, OCR, automatic proofreading, guaranteed font shaping, or a production release date.
 
 ## Design decisions
-The visual direction uses a warm paper palette, deep green, restrained terracotta accents, editorial serif typography and a book-spread visual. The intended feel is publishing-oriented rather than generic enterprise SaaS. Responsive CSS adapts the two-column hero and content grids for mobile.
+The shipped design uses a deep navy background, blue/cyan/purple accents, rounded dark panels, Space Grotesk display headings and DM Sans body text. A mixed Devanagari/English book-spread illustration makes the publishing use case tangible. The page follows a clear sequence: problem → workflow → audience → action. Responsive CSS adapts the two-column hero and content grids for mobile.
 
 ## Trade-offs and limitations
 - This is a static front-end concept, not the PageBender application.
@@ -34,7 +34,7 @@ The visual direction uses a warm paper palette, deep green, restrained terracott
 ## What I'd build next
 1. Validate the workflow and terminology with two target users.
 2. Replace assumptions with product-confirmed capabilities.
-3. Connect the interest form to an approved backend/CRM.
+3. Connect the interest form to an approved backend/CRM if requested.
 4. Add real before/after examples using approved sample manuscripts.
 5. Run accessibility, browser and device testing.
 
