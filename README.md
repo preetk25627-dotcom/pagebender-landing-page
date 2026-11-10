@@ -2,6 +2,10 @@
 
 A responsive concept landing page positioning PageBender for small and independent publishers producing books across Indian scripts and English.
 
+## Live demo
+
+Production URL: https://pagebender-landing-page.vercel.app
+
 ## Run locally
 1. Download or clone this repository.
 2. Open `index.html` in a modern browser.
