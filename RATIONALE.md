@@ -16,8 +16,8 @@ The assignment brief identifies script-sensitive typesetting as a potential sour
 InDesign is a credible professional page-layout alternative with extensive layout controls and a mature publishing workflow. It is flexible and familiar to many designers. The opportunity for PageBender is not to claim that InDesign cannot handle Indian scripts; that would be inaccurate without testing. Instead, PageBender can aim to make the manuscript-to-book workflow more focused and approachable for small publishers whose recurring work involves Indian scripts and mixed-script pages.
 
 ## Design choices
-- Warm paper and ink palette connects the interface to books and print.
-- Editorial serif headings signal publishing craft; clean sans-serif body text keeps product information scannable.
+- Deep navy, blue, cyan and purple create a focused contemporary software identity.
+- Space Grotesk display headings and DM Sans body text keep the page modern and readable.
 - The hero shows a mixed Devanagari/English book spread immediately, making the use case tangible.
 - The page follows a simple sequence: problem → workflow → audience → action.
 - Assumption notes prevent concept copy from being mistaken for confirmed product specifications.
